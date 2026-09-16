@@ -2,7 +2,7 @@
 
 A portfolio analysis project that identifies underperforming inventory in a synthetic consumer-electronics distributor, segments slow movers by demand volatility, and simulates differentiated safety-stock policies. The output is an interactive dashboard deployed to GitHub Pages.
 
-**[Live Dashboard →](https://tonylintingyi-cpu.github.io/Inventory-Turnover-Safety-Stock-Analysis/)**
+**[Live Dashboard →](https://tonylintingyi-cpu.github.io/Inventory_Turnover_Safety_Stock_Analysis/)**
 
 ![Safety stock holding cost vs service level by CV group](output.png)
 
